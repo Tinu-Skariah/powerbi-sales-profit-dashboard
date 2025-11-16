@@ -20,7 +20,7 @@ This repository contains an interactive **Power BI Dashboard** designed to analy
 
 * `Sales_Profit_Analytics_Dashboard.pbix` – Power BI dashboard file
 * *(Optional: Add screenshots)*
-  ![Dashboard Preview](dashboard.jpg)
+  ![Dashboard Preview](powerbi_dashboard.jpeg)
 
 ## 🚀 How to Use
 
